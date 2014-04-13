@@ -338,6 +338,10 @@ img::-moz-selection {
     color: #000;
 }
 
+#cabins img {
+    height: 150px;
+}
+
 .icon {
     color: #867F27;
     font-size:30px;
