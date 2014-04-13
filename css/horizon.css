@@ -488,6 +488,22 @@ img::-moz-selection {
     border-radius: 0;
 }
 
+/* Activites Section */
+
+#activities {
+    background-color: #f9f9f9;
+}
+
+#activities h2,
+#activities h3 {
+    color: #7E5B33;
+}
+
+#activities p {
+    color: #000;
+}
+
+
 /* Footer */
 
 #footer {
