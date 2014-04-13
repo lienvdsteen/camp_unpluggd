@@ -339,7 +339,7 @@ img::-moz-selection {
 }
 
 #cabins img {
-    height: 150px;
+    width: 250px;
 }
 
 .icon {
