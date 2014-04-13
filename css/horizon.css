@@ -59,7 +59,7 @@ a:focus {
     padding: 10px 0 20px 0;
     text-align: center;
     color: #fff;
-    background: url(../images/pictures_camp/DSC_0066.JPG) no-repeat bottom center scroll;
+    background: url(../images/finals/DSC_0066.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -289,7 +289,7 @@ img::-moz-selection {
 /* FAQ Section */
 
 #faq {
-    background-color: #fff;
+    background-color: #f9f9f9;
 }
 
 #faq h2 {
@@ -317,6 +317,24 @@ img::-moz-selection {
 }
 
 #features p {
+    color: #000;
+}
+
+/* Cabins */
+#cabins {
+    background-color: #fff;
+}
+
+#cabins h2 {
+    font-family: 'new_land_contournormal',  Arial, sans-serif;
+    color: #7E5B33;
+}
+
+#cabins h3 {
+    color: #867F27;
+}
+
+#cabins p {
     color: #000;
 }
 
@@ -456,7 +474,7 @@ img::-moz-selection {
 #newsletter {
     width: 100%;
     color: #000;
-    background-color: #f9f9f9;
+    background-color: #fff;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
