@@ -78,6 +78,7 @@ a:focus {
     background: rgba(0,0,0,.2);
     font-size: 48px;
     padding: 20px 0;
+    font-family: 'new_land_contournormal',  Arial, sans-serif;
 }
 
 .brand-heading span {
@@ -291,6 +292,14 @@ img::-moz-selection {
     background-color: #fff;
 }
 
+#faq h2 {
+    font-family: 'new_land_contournormal',  Arial, sans-serif;
+    color: #7E5B33;
+}
+
+#faq h3 {
+    color: #867F27;
+}
 
 /* Features Section */
 
@@ -299,11 +308,12 @@ img::-moz-selection {
 }
 
 #features h2 {
+    font-family: 'new_land_contournormal',  Arial, sans-serif;
     color: #7E5B33;
 }
 
 #features h3 {
-    color: #BA6222;
+    color: #867F27;
 }
 
 #features p {
@@ -311,7 +321,7 @@ img::-moz-selection {
 }
 
 .icon {
-    color: #BA6222;
+    color: #867F27;
     font-size:30px;
     padding-bottom: 20px;
 }
@@ -398,6 +408,11 @@ img::-moz-selection {
     padding: 50px 0;
 }
 
+#first-newsletter h2 {
+    font-family: 'new_land_contournormal',  Arial, sans-serif;
+    color: #7E5B33;
+}
+
 .input-btn {
     background: #1c79ed;
     color: #FFF;
@@ -449,8 +464,14 @@ img::-moz-selection {
     padding: 50px 0;
 }
 
+
+#newsletter h2 {
+    font-family: 'new_land_contournormal',  Arial, sans-serif;
+    color: #7E5B33;
+}
+
 .input-btn {
-    background: #1c79ed;
+    background: #867F27;
     color: #FFF;
     padding: 12px;
     border:none;
@@ -466,13 +487,13 @@ img::-moz-selection {
 }
 
 .input-btn:hover {
-    background: #FF8040;
+    background: #7B4A12;
     color: #fff;
     border:none;
 }
 
 .btn:focus {
-    background: #FF8040 !important;
+    background: #7B4A12 !important;
     color: #fff !important;
     border:none !important;
     outline-offset: 0 !important;
@@ -495,6 +516,11 @@ img::-moz-selection {
 #activities h2,
 #activities h3 {
     color: #7B4A12;
+    font-family: 'new_land_contournormal',  Arial, sans-serif;
+}
+
+#activities h2 {
+    color: #7E5B33;
 }
 
 #activities p {
@@ -509,7 +535,7 @@ img::-moz-selection {
     margin: 0 0 15px;
     text-transform: none;
     letter-spacing: 1px;
-    color: #BA6222;
+    color: #867F27;
 }
 
 
@@ -519,7 +545,7 @@ img::-moz-selection {
     text-align: center;
     background: #000;
     font-weight: bold;
-    padding: 50px 0 20px 0;
+    padding: 10px 0 5px 0;
 }
 
 #footer p {
@@ -579,7 +605,7 @@ img::-moz-selection {
 
     #footer {
         text-align: center;
-        background: #000;
+        background: #7E5B33;
         font-weight: bold;
         padding: 50px 0 20px 0;
     }
