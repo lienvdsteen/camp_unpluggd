@@ -298,9 +298,12 @@ img::-moz-selection {
     background-color: #f9f9f9;
 }
 
-#features h2,
-#features h3 {
+#features h2 {
     color: #7E5B33;
+}
+
+#features h3 {
+    color: #BA6222;
 }
 
 #features p {
@@ -308,16 +311,11 @@ img::-moz-selection {
 }
 
 .icon {
-    color: #7E5B33;
+    color: #BA6222;
     font-size:30px;
     padding-bottom: 20px;
 }
 
-
-
-.icon-phone {
-    font-size: 40px;
-}
 
 /* info section */
 
@@ -496,11 +494,22 @@ img::-moz-selection {
 
 #activities h2,
 #activities h3 {
-    color: #7E5B33;
+    color: #7B4A12;
 }
 
 #activities p {
     color: #000;
+}
+
+#activities img {
+    height: 100px;
+}
+
+#activities h4 {
+    margin: 0 0 15px;
+    text-transform: none;
+    letter-spacing: 1px;
+    color: #BA6222;
 }
 
 
