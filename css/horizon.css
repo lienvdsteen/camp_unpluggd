@@ -289,7 +289,7 @@ img::-moz-selection {
 /* FAQ Section */
 
 #faq {
-    background-color: #fff;
+    background-color: #f9f9f9;
 }
 
 #faq h2 {
@@ -304,7 +304,7 @@ img::-moz-selection {
 /* Features Section */
 
 #features {
-    background-color: #fff;
+    background-color: #f9f9f9;
 }
 
 #features h2 {
@@ -322,7 +322,7 @@ img::-moz-selection {
 
 /* Cabins */
 #cabins {
-    background-color: #f9f9f9;
+    background-color: #fff;
 }
 
 #cabins h2 {
@@ -478,7 +478,7 @@ img::-moz-selection {
 #newsletter {
     width: 100%;
     color: #000;
-    background-color: #f9f9f9;
+    background-color: #fff;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
